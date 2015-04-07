@@ -2,3 +2,9 @@
     font-family: Arial;
     font-weight: bold;
 }
+
+body{
+	color:orange;
+	background-color: black;
+	font-size: 1.2em;
+}
